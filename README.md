@@ -6,3 +6,16 @@
 ██║░░░░░██║░░██║██║██████╔╝██║░╚═╝░██║██║░░██║
 ╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝
 </p>
+
+<div align="center">
+
+----
+
+| No | Nama | NIM |
+|:---:|:---|:---:|
+| 1 | Aulia Sheva Savitri | 2509116001 |
+| 2 | Muhammad Yusri Jibran Sugiharta Jusuf | 2509116030 |
+| 3 | Jihan Shafira Rahmah| 2509116073 |
+| 4 | Otniel Putra Wardana | 2509116081 |
+
+</div>
