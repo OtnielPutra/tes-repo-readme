@@ -9,6 +9,13 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://shields.io" alt="NetBeans" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="MySQL" />
+</p>
+
+
 ----
 
 | No | Nama | NIM |
