@@ -384,3 +384,19 @@ public interface DAO<T> {
     List<T> getSemua();
     List<T> cari(String keyword);
 }
+```
+
+
+## 8. Cara Penggunaan Program
+Ini adalah panduan atau cara penggunaan dari program ini
+
+### 8.1 Menu Login
+  
+<img width="953" height="507" alt="image" src="https://github.com/user-attachments/assets/2a460a7a-7515-48f2-9bf0-d6dc378a6fbd" />
+
+program dimulai dari menu awal yaitu menu login. disini pengguna akan login ke akun yang terdaftar didalam database. setelah memasukan username dan password yang benar, maka pengguna akan langsung masuk kedalam program sesuai dari role / peras pengguna tersebut didalam perusahaan prisma
+
+### 8.2 Dashboard
+<img width="1687" height="967" alt="image" src="https://github.com/user-attachments/assets/3086a87c-641d-4eeb-ae2e-dae3b008bfe5" />
+
+Dashboard adalah halaman utama yang tampil setelah pengguna berhasil login, berisi sapaan dengan nama dan peran pengguna, empat kartu ringkasan data yaitu Total Konten, Program TV, Jadwal Tayang, dan Kerja Sama, serta tabel Jadwal Tayang Terbaru yang menampilkan program, kanal, tanggal, waktu, dan status jadwal, lengkap dengan identitas pengguna dan tombol Log Out di bagian atas. Kegunaannya adalah memberi gambaran cepat tentang kondisi data sistem tanpa harus membuka menu satu per satu, memantau jadwal tayang terbaru beserta statusnya, menjadi titik awal untuk berpindah ke menu pengelolaan lain sesuai peran pengguna, serta memungkinkan pengguna keluar dari sistem dengan aman.
