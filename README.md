@@ -165,7 +165,6 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 <summary><b>Flowchart menu utama</b></summary>
 <img width="827" height="454" alt="image" src="https://github.com/user-attachments/assets/d0004fc0-dc22-43a9-a6e8-ddedb31a8cce" />
 
-![Flowchart menu utama](Gambar/flowchart-menu utama.png)
 
 </details>
 
@@ -173,15 +172,12 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 <summary><b>Flowchart monitor data</b></summary>
 <img width="584" height="1225" alt="image" src="https://github.com/user-attachments/assets/8f11cbb9-d711-4890-a380-49142c2813be" />
 
-![Flowchart monitor data](Gambar/flowchart-monitor data.png)
 
 </details>
 
 <details>
 <summary><b>Flowchart Menu Admin</b></summary>
 <img width="455" height="701" alt="image" src="https://github.com/user-attachments/assets/8cecfd25-91f5-4fec-a19b-65c8cfda8350" />
-
-![Flowchart Menu Admin](Gambar/flowchart-Menu Admin.png)
 
 </details>
 
@@ -198,14 +194,12 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 
 <img width="825" height="528" alt="image" src="https://github.com/user-attachments/assets/e7c5503a-e8f0-4f62-b10d-fba48f0f956f" />
 
-![Flowchart Admin - Menu Mitra ](Gambar/flowchart-Admin  Menu Mitra .png)
 
 </details><details>
 <summary><b>Flowchart Admin - Menu Kerja Sama </b></summary>
 
 <img width="826" height="518" alt="image" src="https://github.com/user-attachments/assets/7576dd37-5f03-4961-8526-0cc919f3318d" />
 
-![Flowchart Admin - Menu Kerja Sama ](Gambar/flowchart Admin - Menu Kerja Sama .png)
 
 </details><details>
 <summary><b>Flowchart Admin - Menu Kanal </b></summary>
@@ -219,28 +213,24 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 
 <img width="515" height="652" alt="image" src="https://github.com/user-attachments/assets/e8890f0e-dc00-4b38-8d2e-307daccba867" />
 
-![Flowchart Menu Petugas Konten ](Gambar/Menu Petugas Konten .png)
 
 </details><details>
 <summary><b>Flowchart Petugas Konten - Menu Konten </b></summary>
 
 <img width="826" height="624" alt="image" src="https://github.com/user-attachments/assets/c4edc0c9-46a3-43b0-a7c1-0005b6496ee0" />
 
-![Flowchart Petugas Konten - Menu Konten](Gambar/Petugas Konten - Menu Konten.png)
 
 </details><details>
 <summary><b>Flowchart Petugas Konten - Menu Publikasi</b></summary>
 
 <img width="826" height="600" alt="image" src="https://github.com/user-attachments/assets/ee50b66e-59eb-4e0b-811e-ec9f1e8a7a92" />
 
-![Flowchart Petugas Konten - Menu Publikasi](Gambar/Petugas Konten - Menu Publikasi.png)
 
 </details><details>
 <summary><b>Flowchart Petugas Jadwal - Menu Jadwal </b></summary>
 
 <img width="708" height="552" alt="image" src="https://github.com/user-attachments/assets/7141df46-c595-4128-980a-c75a17af0903" />
 
-![Flowchart Petugas Jadwal  Menu Jadwal ](Gambar/Petugas Jadwal  Menu Jadwal .png)
 </details>
 
 
