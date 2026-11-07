@@ -440,3 +440,34 @@ Kerja Sama adalah halaman pengelolaan kontrak yang terhubung dengan mitra dan ha
 <img width="1895" height="1001" alt="image" src="https://github.com/user-attachments/assets/bc536d11-3c9f-48ad-8a79-8b303abaf2dc" />
 
 Akun Pengguna adalah halaman pengelolaan data pengguna dan peran dalam sistem yang hanya dapat diakses oleh Admin, berisi tabel daftar akun dengan nama lengkap, username, peran, detail penugasan, tanggal penugasan, dan status, kolom pencarian, serta tombol Tambah Akun, Ubah, dan Hapus. Kegunaannya adalah membantu Admin menambah, memperbarui, menghapus, dan mencari akun Admin, Petugas Jadwal, maupun Petugas Konten agar hak akses setiap pengguna tercatat rapi dan terkendali.
+
+
+</details>
+
+<details>
+<summary><h2>8.5 Menu Petugas Konten</h2></summary>
+
+#### 8.5.1 Manajemen Konten
+<img width="1908" height="1007" alt="image" src="https://github.com/user-attachments/assets/8cbd0842-ea3d-4591-8122-3926776be966" />
+
+Manajemen Konten adalah halaman pengelolaan konten yang hanya dapat diakses oleh Petugas Konten, berisi tabel daftar konten dengan judul, jenis, kategori, program TV, tanggal catat, dan status, kolom pencarian dengan penyaring status, serta tombol Tambah Konten, Ubah, dan Hapus. Kegunaannya adalah membantu Petugas Konten menambah, memperbarui, menghapus, dan mencari konten serta menghubungkannya dengan program TV, sehingga perkembangan setiap konten dari Dalam Proses hingga Sudah Tayang dapat dipantau dengan rapi.
+
+#### 8.5.2 Publikasi Konten
+<img width="1892" height="1012" alt="image" src="https://github.com/user-attachments/assets/dbefc23e-6b65-4996-89a7-c09d65c9226b" />
+
+Publikasi Konten adalah halaman pencatatan publikasi konten melalui kanal yang tersedia dan hanya dapat diakses oleh Petugas Konten, berisi tabel daftar publikasi dengan konten, kanal, tanggal, link, dan status, kolom pencarian, serta tombol Tambah Publikasi, Ubah, dan Hapus. Kegunaannya adalah membantu Petugas Konten menambah, memperbarui, menghapus, dan mencari data publikasi agar setiap konten yang direncanakan maupun sudah terbit di kanal tertentu tercatat rapi lengkap dengan link-nya.
+
+#### 8.5.3 Lampiran Konten
+<img width="1893" height="1013" alt="image" src="https://github.com/user-attachments/assets/c279b518-5e4d-40af-ab08-176e90b7e112" />
+
+Lampiran Konten adalah halaman pengelolaan file pendukung yang terhubung ke konten dan hanya dapat diakses oleh Petugas Konten, berisi tabel daftar lampiran dengan konten, nama file, lokasi file, dan tanggal unggah, kolom pencarian, serta tombol Tambah Lampiran, Ubah, dan Hapus. Kegunaannya adalah membantu Petugas Konten menambah, memperbarui, menghapus, dan mencari lampiran seperti gambar, video, atau dokumen agar setiap konten memiliki file pendukung yang tercatat rapi.
+
+</details>
+
+<details>
+<summary><h2>8.6 Menu Petugas Jadwal</h2></summary>
+
+#### 8.6.1 Menu Jadwal Tayang
+<img width="1893" height="1008" alt="image" src="https://github.com/user-attachments/assets/63bfdce9-6a24-4a0c-aed9-b1415b123b22" />
+
+Jadwal Tayang adalah halaman pengaturan tanggal dan waktu penayangan program yang hanya dapat diakses oleh Petugas Jadwal, berisi tabel daftar jadwal dengan program TV, kanal, tanggal, waktu, petugas, dan status, penyaring pencarian berdasarkan tanggal, waktu mulai, dan waktu selesai, serta tombol Tambah Jadwal, Ubah, Nonaktifkan, dan Hapus. Kegunaannya adalah membantu Petugas Jadwal menambah, memperbarui, menonaktifkan, menghapus, dan mencari jadwal agar penayangan setiap program tersusun rapi dan tidak bentrok.
