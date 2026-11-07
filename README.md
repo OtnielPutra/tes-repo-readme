@@ -405,3 +405,38 @@ Dashboard adalah halaman utama yang tampil setelah pengguna berhasil login, beri
 <img width="1687" height="977" alt="image" src="https://github.com/user-attachments/assets/54fbfc1d-9965-4681-8012-a2655681c2ff" />
 
 Monitor Data adalah halaman untuk memantau seluruh data utama sistem dalam bentuk tabel, dengan lima tab pilihan yaitu Program TV, Konten, Jadwal Tayang, Kerja Sama, dan Mitra. Pada tab yang sedang dibuka, misalnya Program TV, halaman menampilkan daftar data lengkap dengan kolom ID, Nama Program, Kategori, URL, dan Status, sebuah kolom pencarian dengan tombol Cari dan Reset, jumlah seluruh data di bagian bawah tabel, serta identitas pengguna dan tombol Log Out di bagian atas. Kegunaannya adalah memudahkan pengguna melihat seluruh data sistem dari satu tempat tanpa membuka menu pengelolaan satu per satu, mencari data tertentu dengan cepat menggunakan kata kunci, berpindah antar jenis data hanya dengan mengganti tab, serta menjaga keamanan data karena halaman ini hanya untuk melihat dan tidak digunakan untuk menambah, mengubah, atau menghapus data.
+
+
+</details>
+
+<details>
+<summary><h2>8.4 Menu Admin</h2></summary>
+
+#### 8.4.1 Program Tv
+<img width="1897" height="1006" alt="image" src="https://github.com/user-attachments/assets/fe3cc3bb-3f23-4fb1-bd67-e691806cd191" />
+
+<img width="552" height="371" alt="image" src="https://github.com/user-attachments/assets/8693a92c-7731-4ef9-86c5-c597d1cb6319" />
+
+<img width="530" height="348" alt="image" src="https://github.com/user-attachments/assets/22ebf37f-a5ca-4a82-aa52-de658ea240d6" />
+
+Program TV adalah halaman pengelolaan data program televisi yang hanya dapat diakses oleh Admin, berisi tabel daftar program dengan kolom ID, Nama Program, Kategori, URL, dan Status, kolom pencarian dengan tombol Cari dan Reset, jumlah seluruh data di bagian bawah tabel, tombol Tambah Program, Ubah, dan Hapus, serta menu navigasi di sisi kiri untuk berpindah ke menu lain. Saat tombol Tambah Program ditekan, muncul jendela isian dengan kolom Nama Program, Kategori Program, URL Program, dan Status, sedangkan tombol Ubah membuka jendela serupa yang sudah terisi data program yang dipilih, dengan kolom bertanda wajib harus diisi sebelum data disimpan. Kegunaannya adalah membantu Admin menambah program baru, memperbarui informasi program seperti nama, kategori, alamat URL, dan status aktif atau nonaktif, menghapus program yang tidak digunakan lagi, serta mencari program tertentu dengan cepat menggunakan kata kunci, sehingga data program yang menjadi dasar jadwal tayang, konten, dan kerja sama tetap rapi dan akurat.
+
+#### 8.4.2 Data Kanal
+<img width="1892" height="1005" alt="image" src="https://github.com/user-attachments/assets/970f8e13-217f-48ec-94ac-9c9a94b95332" />
+
+Data Kanal adalah halaman pengelolaan data kanal penayangan dan publikasi konten yang hanya dapat diakses oleh Admin, berisi tabel daftar kanal, kolom pencarian, serta tombol Tambah Kanal, Ubah, dan Hapus. Kegunaannya adalah membantu Admin menambah, memperbarui, menghapus, dan mencari data kanal seperti televisi, website, YouTube, Instagram, dan TikTok agar data yang menjadi dasar jadwal tayang dan publikasi konten tetap rapi dan akurat.
+
+#### 8.4.3 Data Mitra
+<img width="1902" height="993" alt="image" src="https://github.com/user-attachments/assets/cc5d5f81-d896-427f-a0b8-92f1942aff7c" />
+
+Data Mitra adalah halaman pengelolaan data perusahaan atau pihak yang bekerja sama yang hanya dapat diakses oleh Admin, berisi tabel daftar mitra dengan nama, jenis, email, alamat, dan status, kolom pencarian, serta tombol Tambah Mitra, Ubah, dan Hapus. Kegunaannya adalah membantu Admin menambah, memperbarui, menghapus, dan mencari data mitra agar data yang menjadi dasar kerja sama tetap rapi dan akurat.
+
+#### 8.4.4 Kerja Sama
+<img width="1902" height="997" alt="image" src="https://github.com/user-attachments/assets/d89aec52-351d-4b7e-a884-11159b392911" />
+
+Kerja Sama adalah halaman pengelolaan kontrak yang terhubung dengan mitra dan hanya dapat diakses oleh Admin, berisi tabel daftar kerja sama dengan judul, mitra, jenis, periode, nilai kontrak, program TV, dan status, kolom pencarian, serta tombol Tambah Kerja Sama, Ubah, dan Hapus. Kegunaannya adalah membantu Admin menambah, memperbarui, menghapus, dan mencari data kerja sama agar kontrak beserta periode, nilai, dan statusnya tercatat rapi dan mudah dipantau.
+
+#### 8.4.5 Akun
+<img width="1895" height="1001" alt="image" src="https://github.com/user-attachments/assets/bc536d11-3c9f-48ad-8a79-8b303abaf2dc" />
+
+Akun Pengguna adalah halaman pengelolaan data pengguna dan peran dalam sistem yang hanya dapat diakses oleh Admin, berisi tabel daftar akun dengan nama lengkap, username, peran, detail penugasan, tanggal penugasan, dan status, kolom pencarian, serta tombol Tambah Akun, Ubah, dan Hapus. Kegunaannya adalah membantu Admin menambah, memperbarui, menghapus, dan mencari akun Admin, Petugas Jadwal, maupun Petugas Konten agar hak akses setiap pengguna tercatat rapi dan terkendali.
